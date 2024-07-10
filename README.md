@@ -1,7 +1,7 @@
 # Speech-Emotions-Recognition
 
 # Motivation 🫶🏼 
-The motivation behind this research is for businesses to adopt superior SER technology to enhance their customer service to ensure they retain their clientele effectively.
+Individuals with Down syndrome often face several common challenges, or pain points, that can affect various aspects of their lives. Creating a system for identifying emotions through speech (Speech Emotion Recognition) can significantly benefit individuals with Down syndrome by addressing communication barriers and enhancing social interactions. By providing real-time feedback on emotional states, the system can aid caregivers and educators in offering timely support, reducing frustration, and improving behavioral management. Additionally, it can assist individuals in developing self-awareness and emotional literacy, ultimately fostering greater independence and social skills. This technology has the potential to significantly improve the quality of life for those with Down syndrome.
 
 # Exploratory Data Analysis (EDA) ✍
 .....WIP!
